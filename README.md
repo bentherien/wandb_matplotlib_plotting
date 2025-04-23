@@ -2,7 +2,7 @@
 
 
 # Example Usage
-"""
+```
 # Download and parse runs from Weights & Biases
 # ---------------------------------------------
 # This function downloads experiment data from W&B and merges metrics across runs
@@ -36,4 +36,4 @@ merged_data = dowload_and_parse_runs(
 #   },
 #   'experiment2': { ... }
 # }
-"""
+```
